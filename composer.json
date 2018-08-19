@@ -1,0 +1,11 @@
+{
+    "name": "root/php_tourism-management-system",
+    "description": "tourism project",
+    "authors": [
+        {
+            "name": "akshay kumar",
+            "email": "modhiakshaykumar@gmail.com"
+        }
+    ],
+    "require": {}
+}
